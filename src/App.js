@@ -79,7 +79,7 @@ function App() {
       <label>Male</label>
       <input type="radio" name="gender" id="female" onChange={e => setSuku("female")}/>
       <label>Female</label>
-    </div>´
+    </div>
     <output>{result}</output>
     <button>paina</button>
     </form>
